@@ -1,2 +1,3 @@
 Matakuliah Pemrograman Dasar kelas EE
-Angelina Geronsiana Yudrikewati
+
+INFORMATIKA'23
